@@ -1,3 +1,3 @@
-# CS-320-Project
+# Werk
 
-Use cases are contained in the User Stories pdf file, the data model is contained within the Data_Model.pdf file. Our techstack and responsibilities are summarized in Frameworks.pdf.
+A simple Next.js web app to generate workouts based on muscle group and equipment preferences. 
